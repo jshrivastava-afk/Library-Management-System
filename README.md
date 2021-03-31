@@ -66,7 +66,7 @@ Manual process of keeping student records, book records, account details, managi
 
 ![HTML](https://img.shields.io/badge/frontend-html-orange.svg?logo=html5&style=flat-square) 
 ![CSS](https://img.shields.io/badge/frontend-css-yellowgreen.svg?logo=css3&style=flat-square)
-![JavaScript](https://img.shields.io/badge/frontend-js-ff69b4.svg?logo=javascript&style=flat-square)
+![JavaScript](https://img.shields.io/badge/Programmin-JAVA-red)
 ![PHP](https://img.shields.io/badge/backend-php-blue.svg?logo=php&style=flat-square) 
 ![MYSQL](https://img.shields.io/badge/database-mysql-lightgray.svg?logo=mysql&logoColor=white&style=flat-square) 
 
